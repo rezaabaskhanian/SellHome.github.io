@@ -1,0 +1,259 @@
+
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	
+}
+.box-img{
+	height: 90vh;
+	background: url(img/house.jpg);
+	background-size: cover;
+	
+}
+.nav-link{
+	color: #fff;
+}
+.navbar-expand-lg{
+	float: right;	
+	
+}
+.navbar-collapse{
+	padding-right: 40px;
+}
+
+.nav-item{
+	padding: 10px;
+}
+.box-img .fa-bars{
+	font-size: 36px;
+	color:#fff
+}
+.navbar-toggler{
+	outline: none !important;
+}
+.nav-link{
+	color: #fff;
+}
+.skills-bar p{
+	margin-bottom: 6px;
+	font-weight: 600;
+}
+.dropdown .btn{
+	background-color:white ;
+}
+.change-name{
+	margin: 20px;
+	
+}
+.change-name .fa-heart{
+	color: blue;
+}
+.container-much{
+	margin-top: 220px;
+}
+.Text-center-much h1{
+
+font-size: 60px;
+font-weight: bold;
+}
+.Text-center-worth h1{
+	color:#3454D1;
+	font-size: 60px;
+	font-weight: bold;
+}
+.txt-input{
+	margin-top: 30px;
+position:absolute;
+width: 1000px;
+	
+}
+.form-control::-webkit-input-placeholder {
+        padding: 20px;
+	color:black !important;
+  }
+
+
+.icon-search{
+	position: absolute;
+	margin-left: 5px;
+	margin-top: 5px;
+	height: 27px;
+	display: flex;
+	align-items: center;
+  }
+ 
+  .container-txt{
+	 margin-top: 100px; 
+  }
+  .Text-better h3{
+	  margin-left: 50px;
+  }
+  .container-txt h3{
+color: #3454D1;
+  }
+  .box-img-home{
+	  margin-top:80px ;
+  }
+  .box-card-home{
+	border-radius: 8px;
+	  position: absolute;
+	background: #ffff;
+	width:45vh;
+	height: 45vh;
+	box-shadow: 0 0 10px 1px rgba(37,73,214,0.18);
+	z-index: 1;
+	left: 380px;
+
+
+	
+	
+	bottom: 200px;
+}
+  .box-img-home img{
+	  width: 30vw;
+	  height: 50vh;
+	  border-radius: 5px;
+  }
+  .box-img-into{
+	margin-top:30px ;
+  
+}
+.box-img-into-img{
+border-radius:5px;
+width: 15vw;
+height: 40vh;
+}
+.box-img-mobl img{
+	margin-left: 10px;
+	border-radius:5px;
+	width: 22vw;
+	height: 35vh;
+}
+.box-sell-home{
+padding: 200px 100px;
+}
+.box-sell-home h1{
+	font-weight: bold;
+	font-size: 50px;
+}
+.box-sell-home .matn{
+	padding: 20px 0px;
+}
+.box-sell-home button{
+	margin-top: 40px;
+	width: 22vw;
+}
+.box-sell-land{
+	padding: 200px ;
+	justify-content: end;
+	
+}
+.box-sell-land .matn{
+	padding: 20px 0px;
+
+}
+.box-sell-land h1{
+	font-weight: bold;
+	font-size: 50px;
+}
+.box-img-land {
+	margin-top:80px ;
+  
+}
+.box-img-land img{
+	width: 30vw;
+	height: 80vh;
+	border-radius: 5px;
+background-size: cover;
+}
+.box-sell-land button{
+	margin-top: 40px;
+}
+.Buy-title{
+	padding-top:120px;
+	text-align: center;
+}
+.Buy-title h1{
+	font-weight: bold;
+	font-size: 50px;
+	margin-top: 10px;
+}
+.Buy-title p{
+	text-align: center;
+	margin-top: 20px;
+}
+.Buy-title button{
+	margin-top: 20px;
+}
+.man-img{
+	padding-top: 80px;
+}
+.man-img img{
+height: 60vh;
+width: 150vh;
+border-radius:8px;
+}
+.Two-button{
+	padding: 100px 50px;
+}
+.frist button{
+background-color:#E1E6F9;
+border-width: 0px;
+margin-top: 30px;
+color: blue;
+}
+.second button{
+	margin-top: 30px;
+	background-color:#E1E6F9;
+	border-width: 0px;
+color:blue;
+}
+.Remortgage{
+	padding-top:80px ;
+}
+
+.Remortgage button{
+	margin-top: 30px;
+}
+.box-card-frist{
+	background: #ffff;
+	width:35vh;
+	box-shadow: 0 0 10px 1px rgba(37,73,214,0.18);
+}
+.box-card-frist h4{
+
+	padding: 5px 10px 5px;
+}
+.box-card-frist p{
+	padding: 0px 10px;
+	font-size:15px;
+	color: darkgray;
+
+}
+.box-card-frist h6{
+	padding: 10px 10px;
+}
+
+.box-card{
+	margin-top: 40px;
+}
+.box-card2{
+	position: absolute;
+	top: -80px;
+}
+.remortgage-text{
+	margin-top: 50px;
+	margin-left: 80px;
+}
+.border-line{
+border-bottom: 6px solid lightgrey;
+margin: 120px 0px ;
+border-width: 1px;
+}
+.list-group .list-group-item {
+	border-color: #fff;
+  }
+ .list-icon .list-group-item{
+	line-height: 60%
+ } 
